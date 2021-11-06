@@ -1,0 +1,2 @@
+# frostbyte_subscription_service
+Subscription ERD generation
